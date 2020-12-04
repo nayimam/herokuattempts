@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 def index():
 	print("bababa")
-	return "mamsemamasaw muma"
+	return "mamsemamasaw baba muma"
 	
 if __name__=="main":
 	app.run()	
